@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+.content {
+	margin-top: 5px;
+}
+
+.thumb-card {
+	float: left;
+	border: 1px solid black;
+	margin: 5px;
+	padding: 10px;
+	width: 24%;
+	height: 250px;
+	text-align: center;
+	overflow: hidden;
+}
